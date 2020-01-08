@@ -5,4 +5,4 @@ The egg images are categorized into 4 groups:
 1. Minor mottling 
 2. Mottling with microcrack 
 3. Mottling with visible crack 
-4. Severe mottling. 
+4. Severe mottling
