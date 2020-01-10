@@ -8,4 +8,4 @@ The egg images are categorized into 4 groups:
 3. Mottling with visible crack (33) 
 4. Severe mottling (29)
 
-Due to limited space, all egg images (1900 images) used for the project with different severity of mottling eggs are available upon reasonable request.
+
